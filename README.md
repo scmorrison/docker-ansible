@@ -6,6 +6,9 @@ This playbook installes docker into a non-stantard path.
 
 * Debian Wheezy
 * Debian Sid
+* CentOS
+* Fedora 20
+
 
 ## Original ansible playbook
 
